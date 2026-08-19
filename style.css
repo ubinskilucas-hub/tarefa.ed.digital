@@ -30,7 +30,7 @@ nav a {
     display: inline-block;
 }
 nav a:hover {
-    background-color: #6B3D00;
+    background-color: white;
 }
 main {
     width: 80%;
