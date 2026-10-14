@@ -73,6 +73,7 @@ card {
     margin: 15px 0;
     border-left: 6px solid var(--cor-principal);
     border-radius: 10px;
+    flex: 1 1 300px;
 }
 card h3 {
     margin-top:0;
