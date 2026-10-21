@@ -5,8 +5,8 @@
     --cor-secundaria: rgb(3, 3, 3);
     --cor-hover:white;
     --cor-superficie: rgb(228, 208, 141);
-    --cor-card: white;
-    --cor-legenda: gray;
+    --cor-card: rgb(255, 238, 0);
+    --cor-legenda: rgb(92, 92, 92);
     --cor-clara: white;
     --cor-rodape: #222222;
 }
