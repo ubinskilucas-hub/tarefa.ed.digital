@@ -1,10 +1,10 @@
 :root{
-    --cor-fundo: #cfc52e;
+    --cor-fundo: #ebe9d4;
     --cor-texto: #292929;
     --cor-principal: #D7C86B;
-    --cor-secundaria: white;
+    --cor-secundaria: rgb(3, 3, 3);
     --cor-hover:white;
-    --cor-superficie: rgb(255, 252, 252);
+    --cor-superficie: rgb(228, 208, 141);
     --cor-card: white;
     --cor-legenda: gray;
     --cor-clara: white;
