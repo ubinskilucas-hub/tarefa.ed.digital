@@ -74,7 +74,7 @@ figcaption {
     color: var(--cor-legenda);
     margin-top: 8px;
 }
-card {
+.card {
     background-color:var(--cor-card);
     padding: 15px;
     margin: 15px 0;
@@ -82,7 +82,7 @@ card {
     border-radius: 10px;
     flex: 1 1 300px;
 }
-card h3 {
+.card h3 {
     margin-top:0;
 
 }
